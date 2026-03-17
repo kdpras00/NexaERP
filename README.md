@@ -109,17 +109,6 @@ npm run build
 php artisan serve
 ```
 
-## 👤 Akun Default (Demo)
-
-Sistem telah dilengkapi dengan data *seeder* untuk pengujian. Berikut adalah beberapa akun default:
-
-| Role | Email | Password |
-|------|-------|----------|
-| **Super Admin** | `admin@nexaerp.com` | `password` |
-| **Accountant** | `budi.santoso@nexaerp.com` | `password` |
-| **Sales Manager** | `ahmad.fauzi@nexaerp.com` | `password` |
-| **HR Manager** | `dewi.lestari@nexaerp.com` | `password` |
-
 ## 📄 Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT).
