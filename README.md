@@ -109,10 +109,7 @@ npm run build
 php artisan serve
 ```
 
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT).
 
 ---
-*Dikembangkan dengan ❤️ menggunakan Laravel & Filament.*
+*Kurniawan Dwi Prasetyo*
 
